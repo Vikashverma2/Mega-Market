@@ -1,0 +1,15 @@
+.dark-theme{
+    --bgColor:#191B28;
+    --containerColor:#34374B;
+    --lableColor:#9E9E9E;
+    --fontColor:#FFFFFF;
+    --primryColor:#FF9900;
+  }
+  .light-theme{
+    --bgColor:#FFFFFF;
+    --containerColor:#9E9E9E;
+    --lableColor:#34374B;
+    --fontColor:#191B28;
+    --primryColor:#FF9900;
+  }
+  
